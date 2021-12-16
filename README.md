@@ -1,4 +1,4 @@
-### What's up friends, eu sou o Victor Procópio, prazer em ter você por aqui.  👋
+### What's up friends, eu sou o Victor Procópio, é um prazer ter você por aqui.  👋
 
 - 🔭 Atualmente trabalho com Front-end e sou aspirante do Back-end (.NET e C#)
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
